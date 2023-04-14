@@ -1,5 +1,5 @@
 <h1> 216090907039 </h1>
-<form action="output.php" method="POST">
+<form action="prac2-1output.php" method="POST">
     <input type="text" name="fname" placeholder="First Name">
     <input type="text" name="lname" placeholder="Last name">
     <br />
